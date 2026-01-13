@@ -11,7 +11,7 @@ export default function Join() {
       <View style={styles.container}>
         {/* Title */}
         <View style={styles.titleTextGroup}>
-          <Text style={styles.titleText}>Join Now</Text>
+          <Text style={styles.titleText}>Join Now.</Text>
           <Text style={styles.subText}>Create an account to get started</Text>
         </View>
 
